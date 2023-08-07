@@ -1,0 +1,326 @@
+
+ [
+    {
+      "name": "Dell XPS 13",
+      "price": 1299.99,
+      "description": "The Dell XPS 13 is a premium ultrabook that offers a perfect balance of power and portability. Its 13.3-inch InfinityEdge display with 4K resolution delivers stunning visuals with vibrant colors. Powered by the latest Intel Core i7 processor and 16GB of RAM, it handles multitasking and demanding applications with ease. The compact and lightweight design makes it ideal for travelers and professionals on the go. With its long-lasting battery life and excellent build quality, the Dell XPS 13 is a top choice for those seeking a high-end laptop.",
+      "category": "laptops",
+      "rating": 4.8,
+      "quantity": 50,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "MacBook Air M2",
+      "price": 1399.00,
+      "description": "The MacBook Air M2 is Apple's sleek and powerful ultrabook, featuring the latest M2 chip for enhanced performance and efficiency. Its 13.3-inch Retina display with True Tone technology ensures accurate colors and sharp details. With up to 16GB of unified memory and a fast SSD, it offers smooth performance for everyday tasks and creative work. The Magic Keyboard and large trackpad provide a comfortable typing experience. With its all-day battery life and macOS ecosystem, the MacBook Air M2 is perfect for students and professionals.",
+      "category": "laptops",
+      "rating": 4.9,
+      "quantity": 60,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "HP Envy x360",
+      "price": 899.00,
+      "description": "The HP Envy x360 is a versatile 2-in-1 laptop that offers flexibility and performance. Its 15.6-inch Full HD touchscreen display can rotate 360 degrees, enabling tablet-like functionality. Equipped with an AMD Ryzen 7 processor and 12GB of RAM, it delivers fast performance for productivity and multimedia tasks. The backlit keyboard and Bang & Olufsen speakers enhance the overall user experience. With its sturdy build quality and decent battery life, the HP Envy x360 is a great choice for users who need both a laptop and a tablet.",
+      "category": "laptops",
+      "rating": 4.7,
+      "quantity": 40,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon Gen 9",
+      "price": 1699.00,
+      "description": "The Lenovo ThinkPad X1 Carbon Gen 9 is a high-performance business laptop that meets MIL-STD-810H military standards for durability. Its 14-inch IPS display offers crisp visuals, and the backlit keyboard ensures comfortable typing in any environment. Powered by the Intel Core i5 processor and 16GB of RAM, it provides robust performance for business applications and multitasking. The integrated fingerprint reader and webcam cover offer added security for sensitive data. With its excellent battery life and iconic ThinkPad design, the X1 Carbon Gen 9 is a reliable choice for professionals.",
+      "category": "laptops",
+      "rating": 4.8,
+      "quantity": 30,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Asus ROG Zephyrus G14",
+      "price": 1499.99,
+      "description": "The Asus ROG Zephyrus G14 is a powerful gaming laptop packed into a compact 14-inch form factor. Featuring an AMD Ryzen 9 processor and NVIDIA GeForce RTX 3060 graphics, it offers exceptional gaming performance and rendering capabilities. The 1440p QHD display with a 144Hz refresh rate delivers smooth visuals and vibrant colors. The AniMe Matrix LED display on the lid allows for customizable animations and personalization. With its solid build quality and efficient cooling system, the ROG Zephyrus G14 is a top choice for gamers on the move.",
+      "category": "laptops",
+      "rating": 4.9,
+      "quantity": 20,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "price": 1299.00,
+      "description": "The Microsoft Surface Laptop 4 is a sleek and lightweight device that offers a premium Windows experience. Available in 13.5-inch and 15-inch variants, it features a PixelSense touchscreen display with a high resolution and excellent color accuracy. Powered by the latest Intel Core or AMD Ryzen processors and up to 32GB of RAM, it provides snappy performance for productivity and creative tasks. The Alcantara-covered keyboard and large precision trackpad offer a comfortable typing experience. With its long battery life and modern design, the Surface Laptop 4 is an excellent choice for professionals and students.",
+      "category": "laptops",
+      "rating": 4.8,
+      "quantity": 45,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "HP Pavilion Desktop",
+      "price": 799.99,
+      "description": "The HP Pavilion Desktop is a versatile and reliable computer for everyday use. Powered by an Intel Core i5 processor and 8GB of RAM, it provides smooth performance for web browsing, productivity tasks, and multimedia playback. The compact tower design saves space on your desk, and the included mouse and keyboard offer a convenient setup. With its ample storage and integrated graphics, the HP Pavilion Desktop is suitable for home or office use.",
+      "category": "computers",
+      "rating": 4.7,
+      "quantity": 100,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Dell Inspiron All-in-One",
+      "price": 1099.00,
+      "description": "The Dell Inspiron All-in-One is a stylish and powerful computer that combines the monitor and CPU into a single unit, saving space and reducing cable clutter. Featuring a 27-inch Full HD touchscreen display, it offers immersive visuals and responsive touch input. Powered by an Intel Core i7 processor and 16GB of RAM, it handles demanding tasks with ease. The sleek design and wireless peripherals create a clean and modern setup. With its integrated webcam and speakers, the Dell Inspiron All-in-One is an excellent choice for family entertainment and video conferencing.",
+      "category": "computers",
+      "rating": 4.8,
+      "quantity": 80,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Lenovo ThinkCentre M720",
+      "price": 899.00,
+      "description": "The Lenovo ThinkCentre M720 is a compact and powerful desktop computer designed for business and productivity. Its small form factor saves valuable desk space, while the Intel Core i5 processor and 8GB of RAM deliver snappy performance for multitasking. The built-in security features, such as TPM and Smart USB Protection, help safeguard your data. With multiple connectivity options and expansion slots, the ThinkCentre M720 can adapt to various business needs. With its reliable performance and easy manageability, it's a great choice for office environments.",
+      "category": "computers",
+      "rating": 4.6,
+      "quantity": 50,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Apple Mac mini",
+      "price": 999.00,
+      "description": "The Apple Mac mini is a compact and versatile desktop computer that packs a punch. Powered by the latest M1 chip, it delivers impressive performance and energy efficiency. With its 8GB of unified memory and fast SSD storage, it handles everyday tasks and creative projects with ease. The sleek and minimalist design complements any workspace, and the macOS ecosystem offers a seamless experience across Apple devices. Whether you're a creative professional or an avid Mac user, the Mac mini is an excellent addition to your setup.",
+      "category": "computers",
+      "rating": 4.9,
+      "quantity": 60,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Acer Aspire TC",
+      "price": 699.99,
+      "description": "The Acer Aspire TC is a budget-friendly desktop computer that offers reliable performance for everyday computing tasks. Equipped with an AMD Ryzen 5 processor and 12GB of RAM, it can handle web browsing, document editing, and light multimedia with ease. The compact tower design saves space, and the included keyboard and mouse ensure a hassle-free setup. With its ample storage and AMD Radeon graphics, the Acer Aspire TC is a great option for home users and students.",
+      "category": "computers",
+      "rating": 4.5,
+      "quantity": 70,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Alienware Aurora R12",
+      "price": 1899.00,
+      "description": "The Alienware Aurora R12 is a high-performance gaming desktop designed for enthusiasts and gamers. Featuring Intel Core i9 processor and NVIDIA GeForce RTX 3080 graphics, it offers outstanding gaming performance and VR capabilities. The customizable RGB lighting and side panel window add a touch of style to your gaming setup. The advanced cooling system ensures optimal performance during intense gaming sessions. With its premium components and expandability options, the Alienware Aurora R12 is a top choice for gamers who demand the best.",
+      "category": "computers",
+      "rating": 4.9,
+      "quantity": 30,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "price": 1099.99,
+      "description": "The iPhone 14 Pro is Apple's flagship smartphone, featuring a stunning 6.1-inch Super Retina XDR display with ProMotion technology for smoother scrolling and responsiveness. Powered by the A15 Bionic chip, it offers incredible performance for gaming and multitasking. The advanced triple-camera system with LiDAR enables impressive low-light photography and enhanced AR experiences. With its durable Ceramic Shield front cover and water resistance, the iPhone 14 Pro is built to withstand the rigors of daily use.",
+      "category": "iphones",
+      "rating": 4.9,
+      "quantity": 100,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "price": 999.00,
+      "description": "The iPhone 13 Pro is a premium smartphone that delivers a powerful and immersive experience. Its 6.1-inch Super Retina XDR display with ProMotion technology offers bright and vibrant visuals. Powered by the A15 Bionic chip and up to 1TB of storage, it can handle demanding tasks with ease. The triple-camera system with Night mode and Dolby Vision recording allows for stunning photos and videos. With its all-day battery life and 5G capabilities, the iPhone 13 Pro is a reliable companion for work and play.",
+      "category": "iphones",
+      "rating": 4.8,
+      "quantity": 120,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPhone 12 Mini",
+      "price": 699.00,
+      "description": "The iPhone 12 Mini offers a compact and powerful smartphone experience. Its 5.4-inch Super Retina XDR display provides sharp and clear visuals. Powered by the A14 Bionic chip, it delivers fast and efficient performance. The dual-camera system with Night mode captures impressive photos and videos even in low-light conditions. With its 5G support and MagSafe compatibility, the iPhone 12 Mini is a great choice for users who prefer a smaller form factor without compromising performance.",
+      "category": "iphones",
+      "rating": 4.7,
+      "quantity": 80,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPhone SE (2020)",
+      "price": 399.00,
+      "description": "The iPhone SE (2020) is a budget-friendly option with powerful capabilities. Its 4.7-inch Retina HD display provides crisp visuals, and the Touch ID offers convenient security. Powered by the A13 Bionic chip, it offers smooth performance and supports augmented reality applications. The single-camera system with Portrait mode captures stunning photos with bokeh effects. With its compact design and wireless charging support, the iPhone SE (2020) is an excellent choice for users who seek affordability and performance.",
+      "category": "iphones",
+      "rating": 4.6,
+      "quantity": 60,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPhone 11",
+      "price": 599.00,
+      "description": "The iPhone 11 is a popular choice with a 6.1-inch Liquid Retina HD display for immersive visuals. Powered by the A13 Bionic chip, it provides excellent performance and efficiency. The dual-camera system with Night mode captures stunning photos and 4K videos. With its all-day battery life and water resistance, the iPhone 11 is built to withstand daily challenges. Whether you're a casual user or a photography enthusiast, the iPhone 11 offers a well-rounded smartphone experience.",
+      "category": "iphones",
+      "rating": 4.5,
+      "quantity": 90,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"   },
+    {
+      "name": "iPhone XR",
+      "price": 499.00,
+      "description": "The iPhone XR offers a high-quality experience with a 6.1-inch Liquid Retina display and True Tone technology. Powered by the A12 Bionic chip, it delivers fast performance and efficient power usage. The single-camera system with Smart HDR captures vibrant photos with detail. With its modern design and six color options, the iPhone XR is both stylish and functional. Whether you're streaming media, browsing, or gaming, the iPhone XR is a reliable choice.",
+      "category": "iphones",
+      "rating": 4.5,
+      "quantity": 70,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"   },
+    {
+      "name": "iPad Pro (2023) 12.9-inch",
+      "price": 1299.99,
+      "description": "The iPad Pro (2023) 12.9-inch is Apple's flagship tablet, offering exceptional performance and versatility. Featuring a Liquid Retina XDR display with ProMotion technology, it delivers stunning visuals with true-to-life colors. Powered by the M1 chip and up to 16GB of RAM, it can handle demanding tasks and supports powerful creative applications. The advanced camera system enables high-quality video calls and photography. With Apple Pencil and Magic Keyboard compatibility, the iPad Pro (2023) 12.9-inch is an excellent tool for artists and professionals.",
+      "category": "ipads",
+      "rating": 4.9,
+      "quantity": 100,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPad Air (2022)",
+      "price": 799.00,
+      "description": "The iPad Air (2022) is a powerful and sleek tablet with a 10.9-inch Liquid Retina display. Powered by the A15 Bionic chip and up to 256GB of storage, it offers fast performance for multitasking and gaming. The Apple Pencil (2nd generation) support allows for precise note-taking and drawing. The Touch ID fingerprint sensor ensures secure access to your device. With its slim design and USB-C connectivity, the iPad Air (2022) is perfect for students and professionals on the go.",
+      "category": "ipads",
+      "rating": 4.8,
+      "quantity": 120,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPad Mini (2023)",
+      "price": 499.00,
+      "description": "The iPad Mini (2023) is a compact and powerful tablet with an 8.3-inch Liquid Retina display. Powered by the A15 Bionic chip, it delivers fast performance for everyday tasks and entertainment. The improved front camera enables Center Stage for better video calls and selfies. With its Apple Pencil (2nd generation) compatibility and stereo speakers, the iPad Mini (2023) is an ideal device for creativity and media consumption on the go.",
+      "category": "ipads",
+      "rating": 4.7,
+      "quantity": 80,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPad (2021) 10.2-inch",
+      "price": 329.00,
+      "description": "The iPad (2021) 10.2-inch is a versatile and affordable tablet for everyday use. Featuring a Retina display, it provides clear visuals and supports Apple Pencil (1st generation). Powered by the A13 Bionic chip, it delivers smooth performance for web browsing, gaming, and productivity tasks. The front and back cameras enable FaceTime calls and photography. With its durable build and all-day battery life, the iPad (2021) 10.2-inch is suitable for users of all ages.",
+      "category": "ipads",
+      "rating": 4.6,
+      "quantity": 60,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPad Pro (2022) 11-inch",
+      "price": 999.00,
+      "description": "The iPad Pro (2022) 11-inch is a high-performance tablet designed for creative professionals. Its Liquid Retina display with ProMotion technology offers smooth visuals and precise touch input. Powered by the M1 chip and up to 8GB of RAM, it handles resource-intensive tasks with ease. The dual-camera system with LiDAR enables advanced AR experiences and photography. With its 5G connectivity and Thunderbolt support, the iPad Pro (2022) 11-inch is a versatile tool for productivity and creativity.",
+      "category": "ipads",
+      "rating": 4.9,
+      "quantity": 90,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "iPad Mini (2021)",
+      "price": 399.00,
+      "description": "The iPad Mini (2021) is a compact and powerful tablet with an 8.3-inch Liquid Retina display. Powered by the A15 Bionic chip, it delivers fast performance and supports the Apple Pencil (2nd generation). The front camera enables Center Stage for improved video calls and selfies. With its slim and lightweight design, the iPad Mini (2021) is perfect for on-the-go productivity and entertainment.",
+      "category": "ipads",
+      "rating": 4.8,
+      "quantity": 70,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Razer BlackWidow V3",
+      "price": 129.99,
+      "description": "The Razer BlackWidow V3 is a high-performance mechanical gaming keyboard designed for precision and speed. It features Razer Green mechanical switches, which provide a tactile and clicky feel with each keypress. The customizable Chroma RGB lighting allows you to personalize your gaming setup, and the detachable wrist rest ensures comfort during long gaming sessions. With programmable macros and N-key rollover, the BlackWidow V3 empowers gamers to gain a competitive edge.",
+      "category": "keyboards",
+      "rating": 4.8,
+      "quantity": 100,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Logitech MX Keys",
+      "price": 99.99,
+      "description": "The Logitech MX Keys is a premium wireless keyboard designed for productivity and comfort. It features comfortable and low-profile keys with a satisfying typing experience. The backlit keys adapt to ambient light conditions, and the proximity sensors detect your hands for an energy-saving backlight. The MX Keys supports multi-device pairing, allowing you to switch between your computer, tablet, and smartphone with ease. With its sleek design and durable build, the Logitech MX Keys is an excellent addition to any workstation.",
+      "category": "keyboards",
+      "rating": 4.9,
+      "quantity": 120,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Corsair K95 RGB Platinum XT",
+      "price": 179.99,
+      "description": "The Corsair K95 RGB Platinum XT is a premium gaming keyboard built for performance and customization. Equipped with Cherry MX RGB Brown mechanical switches, it offers a tactile and quiet typing experience. The dynamic per-key RGB backlighting allows for impressive lighting effects, and the detachable palm rest provides ergonomic support during intense gaming sessions. With dedicated media keys and programmable macros, the K95 RGB Platinum XT gives gamers complete control over their gaming setup.",
+      "category": "keyboards",
+      "rating": 4.7,
+      "quantity": 80,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "SteelSeries Apex Pro",
+      "price": 199.99,
+      "description": "The SteelSeries Apex Pro is a high-end gaming keyboard with a customizable OmniPoint adjustable mechanical switch. It allows you to adjust the actuation point of each key, providing unmatched levels of precision and responsiveness. The per-key RGB lighting and OLED Smart Display offer endless customization and utility. The aircraft-grade aluminum frame ensures durability, and the magnetic wrist rest provides comfort during long gaming sessions. With its powerful customization options and exceptional performance, the Apex Pro is a favorite among serious gamers.",
+      "category": "keyboards",
+      "rating": 4.9,
+      "quantity": 90,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Ducky One 2 Mini",
+      "price": 109.99,
+      "description": "The Ducky One 2 Mini is a compact and stylish 60% mechanical keyboard loved by gaming enthusiasts and mechanical keyboard enthusiasts alike. It features Cherry MX RGB Red switches for a smooth and linear typing experience. The PBT keycaps are durable and won't wear down easily over time. With its minimalistic design and detachable USB-C cable, the Ducky One 2 Mini is a popular choice for those who prefer a smaller and portable keyboard.",
+      "category": "keyboards",
+      "rating": 4.8,
+      "quantity": 60,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "HyperX Alloy FPS Pro",
+      "price": 69.99,
+      "description": "The HyperX Alloy FPS Pro is a tenkeyless mechanical gaming keyboard designed for FPS players seeking a compact and reliable solution. It features Cherry MX mechanical key switches with red LED backlighting for quick and accurate keypresses. The solid steel frame ensures durability and stability during intense gaming sessions. With its detachable cable and portable design, the Alloy FPS Pro is a favorite among esports enthusiasts.",
+      "category": "keyboards",
+      "rating": 4.7,
+      "quantity": 70,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Apple Watch Series 7",
+      "price": 399.00,
+      "description": "The Apple Watch Series 7 is the latest smartwatch from Apple, offering a range of features for fitness, communication, and productivity. The always-on Retina display is 20% larger than the previous model, providing clear visuals and easy access to information. With the S7 chip, it offers faster performance and improved energy efficiency. The watch includes various health and fitness tracking capabilities, such as ECG, blood oxygen, and sleep monitoring. With its water resistance and various band options, the Apple Watch Series 7 is suitable for active individuals and everyday use.",
+      "category": "watches",
+      "rating": 4.9,
+      "quantity": 100,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Samsung Galaxy Watch 4",
+      "price": 329.99,
+      "description": "The Samsung Galaxy Watch 4 is a feature-packed smartwatch designed for Android users. Its circular Super AMOLED display delivers vibrant visuals, and the rotating bezel allows for intuitive navigation. Powered by the Exynos W920 chip, it offers smooth performance and snappy responses. The watch boasts advanced health and fitness tracking features, including body composition analysis and sleep tracking. With its water resistance and long-lasting battery life, the Galaxy Watch 4 is a reliable companion for fitness enthusiasts and tech-savvy users.",
+      "category": "watches",
+      "rating": 4.8,
+      "quantity": 120,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Fitbit Charge 5",
+      "price": 179.95,
+      "description": "The Fitbit Charge 5 is a versatile fitness tracker with a sleek design and advanced health monitoring features. Its color AMOLED display provides clear information and customizable watch faces. With built-in GPS and a variety of exercise modes, it accurately tracks your workouts and activities. The Charge 5 offers continuous heart rate monitoring and stress management tools. With up to 7-day battery life and water resistance, it's an ideal fitness companion for all-day wear.",
+      "category": "watches",
+      "rating": 4.7,
+      "quantity": 80,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Garmin Fenix 6 Pro",
+      "price": 549.99,
+      "description": "The Garmin Fenix 6 Pro is a rugged multisport GPS watch designed for outdoor enthusiasts and athletes. Its large sunlight-readable display offers detailed maps and performance metrics. The watch includes advanced activity and health tracking features, such as VO2 max estimation and pulse oximeter. With preloaded topographic maps and multiple global navigation systems, it's an excellent choice for hiking and exploring. With its durable build and long battery life, the Fenix 6 Pro is a reliable companion for adventurers.",
+      "category": "watches",
+      "rating": 4.9,
+      "quantity": 90,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Fossil Gen 5",
+      "price": 299.00,
+      "description": "The Fossil Gen 5 is a stylish smartwatch powered by Wear OS, offering a blend of fashion and technology. Its AMOLED display delivers sharp and vibrant visuals. With the Snapdragon Wear 3100 chip and 1GB of RAM, it provides smooth performance and responsiveness. The watch includes various fitness tracking features and is compatible with popular fitness apps. With its interchangeable straps and customizable watch faces, the Fossil Gen 5 is a fashionable accessory for modern users.",
+      "category": "watches",
+      "rating": 4.6,
+      "quantity": 60,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    },
+    {
+      "name": "Casio G-Shock GA-2100",
+      "price": 99.99,
+      "description": "The Casio G-Shock GA-2100 is a durable and iconic analog-digital watch with a rugged design. Its carbon core guard structure ensures shock resistance, making it suitable for various outdoor activities. The watch includes multiple time zones, a stopwatch, and a countdown timer. With its 200-meter water resistance and long battery life, the G-Shock GA-2100 is a reliable companion for adventure seekers and everyday wear.",
+      "category": "watches",
+      "rating": 4.7,
+      "quantity": 70,
+      "picture": "https://i.ibb.co/PTS6hWs/gaming-detail-img1-3x.jpg"
+    }
+  ]
+
